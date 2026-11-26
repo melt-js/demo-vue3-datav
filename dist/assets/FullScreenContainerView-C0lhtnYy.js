@@ -1,4 +1,4 @@
-import{d as t,f as a,g as e,j as s,q as l,t as r,l as p,o as c,m as i}from"./index-CIdDz_q_.js";import{_ as d}from"./_plugin-vue_export-helper-DlAUqK2U.js";const m={class:"demo-page"},_=`import { DvFullScreenContainer } from '@melt-js/comps-vue3-datav'
+import{d as t,f as a,g as e,j as s,q as l,t as r,l as p,o as c,m as i}from"./index-C9fpfx96.js";import{_ as d}from"./_plugin-vue_export-helper-DlAUqK2U.js";const m={class:"demo-page"},_=`import { DvFullScreenContainer } from '@melt-js/comps-vue3-datav'
 
 <DvFullScreenContainer>
   <h1>数据大屏</h1>
